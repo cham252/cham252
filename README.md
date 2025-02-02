@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/christopherham252">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Christopher! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://inkedin.com/in/christopherham252"> 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
