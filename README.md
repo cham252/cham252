@@ -2,10 +2,16 @@
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Active Directory Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - ng-Algorithm)
 <h2>📄 Certifications:</h2>
+
+- <b>CompTIA Security + </b>
+
+- <b>CompTIA Network + </b>
+
+- <b>Google Cybersecurity </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
