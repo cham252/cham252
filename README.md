@@ -2,8 +2,8 @@
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Vulnerability Management Program</b>
+  - (https://github.com/cham252/Vulnerability-Management-Program)
 - 
 <h2>📄 Certifications:</h2>
 
