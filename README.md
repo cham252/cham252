@@ -9,7 +9,6 @@
 
 - <b>CompTIA Security + </b>
 
-- <b>CompTIA Network + </b>
 
 - <b>Google Cybersecurity </b>
 
