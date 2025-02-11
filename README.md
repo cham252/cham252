@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management Program</b>
-  - (https://github.com/cham252/Vulnerability-Management-Program)
-- 
+  - https://github.com/cham252/Vulnerability-Management-Program
+- <b>Threat Hunting Scenario<b>
+  - https://github.com/cham252/Threat-Hunting-Scenario-
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA Security + </b>
