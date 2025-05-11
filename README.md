@@ -6,7 +6,7 @@ I’m a certified cybersecurity analyst (CompTIA Security+) with 26 years of exp
 ## Objective
 
 
-With a lifelong passion for technology and a recently completed career in law enforcement, I am now fully transitioning into the cybersecurity field to continue serving and protecting—this time in the digital space. My goal is to leverage both my investigative background and technical skills to secure a position in a Security Operations Center (SOC) as a Tier 1 Analyst. I’m driven by a desire to help others, protect critical systems, and make a meaningful impact in the ever-evolving world of cyber defense.
+With a lifelong passion for technology and a recently completed career in law enforcement, I am now fully transitioning into the cybersecurity field to continue serving and protecting—this time in the digital space. My goal is to leverage both my investigative background and technical skills to secure a position as a Security Operations Center (SOC) Analyst. I’m driven by a desire to help others, protect critical systems, and make a meaningful impact in the ever-evolving world of cyber defense.
 
 ## Skills
 
