@@ -42,7 +42,8 @@ With a lifelong passion for technology and a recently completed career in law en
     <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/Splunk-black?logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/Tenable-2F2F2F?logo=tenable&logoColor=white" />
+    </div>
 
 ## Certifications
 
