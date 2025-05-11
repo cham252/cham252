@@ -1,9 +1,7 @@
 # Hello, I'm Christopher J. Ham
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Certified cybersecurity analyst (CompTIA Security+) with 26 years of investigative law enforcement experience, specializing in security operations, incident response, and digital forensics. Hands-on expertise with SIEM tools, vulnerability management, threat hunting, and NIST-aligned incident response frameworks.  Proven success in enhancing security posture, reducing incidents, and building proactive cyber defense capabilities
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
