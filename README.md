@@ -38,8 +38,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Splunk-black?logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-Network%2B-orange?logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-CASP%2B-darkgreen?logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-CASP%2b-darkgreen?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CIH-crimson?logo=linuxfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CEH-black?logo=linuxfoundation&logoColor=white" />
 </div>
