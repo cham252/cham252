@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management Program          | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management Program          | <a href="https://github.com/cham252/Vulnerability-Management-Program">Vulnerability Management Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
