@@ -6,7 +6,7 @@ Certified cybersecurity analyst (CompTIA Security+) with 26 years of investigati
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objective is to leverage my hands-on experience with SIEM tools, threat detection, and incident response to contribute effectively in a Security Operations Center (SOC) as a Tier 1 Analyst. I am passionate about continuous learning and driven to protect digital environments through proactive threat hunting and cyber defense.
 
 ## Skills
 
