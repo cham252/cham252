@@ -1,7 +1,7 @@
 # Hello, I'm Christopher Ham
 <a href="https://linkedin.com/in/christopherham252"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Certified cybersecurity analyst (CompTIA Security+) with 26 years of investigative law enforcement experience, specializing in security operations, incident response, and digital forensics. Hands-on expertise with SIEM tools, vulnerability management, threat hunting, and NIST-aligned incident response frameworks.  Proven success in enhancing security posture, reducing incidents, and building proactive cyber defense capabilities
+Certified cybersecurity analyst (CompTIA Security+) with 26 years of investigative law enforcement experience, specializing in security operations, incident response, and digital forensics. Hands-on expertise with SIEM tools, vulnerability management, threat hunting, and NIST-aligned incident response frameworks.  Proven success in enhancing security posture, reducing incidents, and building proactive cyber defense capabilities.
 
 ## Objective
 
