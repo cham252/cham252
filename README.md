@@ -1,12 +1,12 @@
 # Hello, I'm Christopher Ham
 <a href="https://linkedin.com/in/christopherham252"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Certified cybersecurity analyst (CompTIA Security+) with 26 years of investigative law enforcement experience, specializing in security operations, incident response, and digital forensics. Hands-on expertise with SIEM tools, vulnerability management, threat hunting, and NIST-aligned incident response frameworks.  Proven success in enhancing security posture, reducing incidents, and building proactive cyber defense capabilities.
+I’m a certified cybersecurity analyst (CompTIA Security+) with 26 years of experience in investigative law enforcement, now pursuing a second career in cybersecurity. I specialize in security operations, digital forensics, threat hunting, and incident response, with hands-on experience using SIEM tools, vulnerability management platforms, and NIST-aligned response frameworks. My mission is to apply my investigative expertise and technical training to defend organizations against evolving cyber threats and contribute meaningfully to a Security Operations Center (SOC) team.
 
 ## Objective
 
 
-My objective is to leverage my hands-on experience with SIEM tools, threat detection, and incident response to contribute effectively in a Security Operations Center (SOC) as a Tier 1 Analyst. I am passionate about continuous learning and driven to protect digital environments through proactive threat hunting and cyber defense.
+With a lifelong passion for technology and a recently completed career in law enforcement, I am now fully transitioning into the cybersecurity field to continue serving and protecting—this time in the digital space. My goal is to leverage both my investigative background and technical skills to secure a position in a Security Operations Center (SOC) as a Tier 1 Analyst. I’m driven by a desire to help others, protect critical systems, and make a meaningful impact in the ever-evolving world of cyber defense.
 
 ## Skills
 
