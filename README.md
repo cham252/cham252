@@ -32,8 +32,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/CrowdStrike%20Falcon-E22D2D?logo=crowdstrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sophos-003366?logo=sophos&logoColor=white" />
 </div>
 
 ### SIEM
