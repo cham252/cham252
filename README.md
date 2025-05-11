@@ -26,8 +26,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/Wireshark-blue?logo=wireshark" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-214478?logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/TCPDump-444444?logo=gnu&logoColor=white" />
 </div>
 
 ### Endpoint
