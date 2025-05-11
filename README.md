@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/Splunk-black?logo=splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white" />
 </div>
 
 ## Certifications
