@@ -53,6 +53,8 @@ With a lifelong passion for technology and a recently completed career in law en
 <img src="https://img.shields.io/badge/CompTIA-CASP%2b-darkgreen?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CIH-crimson?logo=linuxfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CEH-black?logo=linuxfoundation&logoColor=white" />
+<img src="https://img.shields.io/badge/ISACA-CISM-0066CC?logo=isaca&logoColor=white" />
+
 </div>
 
 ## Projects
