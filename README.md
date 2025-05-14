@@ -45,6 +45,12 @@ With a lifelong passion for technology and a recently completed career in law en
     <img src="https://img.shields.io/badge/Tenable-2F2F2F?logo=tenable&logoColor=white" />
     </div>
 
+## Education 
+<div>
+<img src="https://img.shields.io/badge/TESU_BA-Criminal_Justice-blue?logo=academia&logoColor=white)](https://www.tesu.edu/heavin/ba-criminal-justice" />
+<img src="https://img.shields.io/badge/TESU-M.S._in_Cybersecurity-purple?logo=cyberdefenders&logoColor=white" />    
+</div>
+
 ## Certifications
 
 <div>
