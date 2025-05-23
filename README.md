@@ -15,7 +15,7 @@ With a lifelong passion for technology and a recently completed career in law en
 |-----------------------------------------------|----------------------------|
 | Vulnerability Management Program          | <a href="https://github.com/cham252/Vulnerability-Management-Program">Detection Lab</a>|
 | Threat Hunting Scenario | <a href="https://github.com/cham252/Threat-Hunting-Scenario-">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| ProjectX Corp         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
