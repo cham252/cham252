@@ -60,7 +60,7 @@ With a lifelong passion for technology and a recently completed career in law en
 <img src="https://img.shields.io/badge/EC--Council-CIH-crimson?logo=linuxfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CEH-black?logo=linuxfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/ISACA-CISM-0066CC?logo=isaca&logoColor=white" />
-
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" />
 </div>
 
 ## Projects
