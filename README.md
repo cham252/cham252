@@ -1,5 +1,6 @@
 # Hello, I'm Christopher Ham
-<a href="https://linkedin.com/in/christopherham252"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/christopher-ham-cyber)
+
 
 I’m a certified cybersecurity analyst (Security+, CEH, ECIH, CISM) with 26 years of investigative experience in law enforcement and a strong focus on security operations, threat intelligence, and digital forensics. I specialize in vulnerability management, SIEM monitoring, and incident response using tools like Splunk, Tenable, and Microsoft Sentinel. My goal is to detect, analyze, and respond to cyber threats that target enterprise networks and critical systems.
 ## Objective
