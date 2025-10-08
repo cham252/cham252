@@ -53,7 +53,7 @@ I bring an investigative mindset and real-world problem-solving skills from my l
 <div>
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-SecurityX-purple?logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/EC--Council-CIH-crimson?logo=linuxfoundation&logoColor=white" />
+<img src="https://img.shields.io/badge/EC--Council-E|CIH-crimson?logo=linuxfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CEH-black?logo=linuxfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/ISACA-CISM-0066CC?logo=isaca&logoColor=white" />
 </div>
