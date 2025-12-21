@@ -15,7 +15,7 @@ I bring an investigative mindset and real-world problem-solving skills from my l
 | Vulnerability Management Program          | <a href="https://github.com/cham252/cham252/blob/Vulnerability-Management-Program/README.md">Lab</a>|
 | Threat Hunting Scenario | <a href="https://github.com/cham252/Threat-Hunting-Scenario-">Lab</a>|
 | Project X Corp Enterprise Lab       | <a href="https://github.com/cham252/Phishing-Analysis">Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| STIG-Implementation                 |<a href="https://github.com/cham252/STIG-Implementation-WN11-00-000105">Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
